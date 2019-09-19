@@ -1,0 +1,26 @@
+body {background-color: rgb(211, 63, 5)}
+td {
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-left : 25px;
+    padding-right: 25px;
+    font-size: 25px;
+    font-family: "Boulder";
+}
+
+a:link {    color: rgb(0, 0, 0);
+            text-decoration: none;
+}
+a:hover {   color: rgb(211, 63, 5);
+            background-color: black;
+            text-decoration: none;
+}
+h1 {font-size: 60px;
+    background-color: black;
+    color:rgb(211, 63, 5);
+}
+
+img {width:400px;}
+
+pre {font-size: 30px;}
